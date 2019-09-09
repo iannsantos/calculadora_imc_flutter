@@ -1,4 +1,4 @@
-# calculadora_imc
+# Calculadora IMC
 
 Projeto do curso do Daniel Ciolfi
 
