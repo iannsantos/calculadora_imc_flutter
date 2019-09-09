@@ -4,5 +4,5 @@ Projeto do curso do Daniel Ciolfi
 
 Calculadora IMC
 
-![](presentation.gif)
+<img src="presentation.gif" height="150" width="150" />
 
